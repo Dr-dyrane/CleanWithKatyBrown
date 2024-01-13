@@ -12,8 +12,8 @@ export default defineConfig({
         short_name: "Katy Brown",
         description: "Elevate your space with meticulous and personalized cleaning services",
         start_url: '/',
-        theme_color: "#007BFF", // Blue color
-        background_color: "#ffffff", // White color
+				theme_color: "#0f172a",
+				background_color: "#E2E8F0",
         display: 'standalone',
         icons: [
           {

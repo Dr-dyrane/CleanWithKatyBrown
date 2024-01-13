@@ -10,7 +10,7 @@ const Footer = () => {
         <span className="text-sm text-slate-500 sm:text-center dark:text-slate-400">
           © {currentYear}{" "}
           <Link to="/" className="hover:underline">
-            Rockspot™
+            KatyBrown™
           </Link>
           . All Rights Reserved.
         </span>

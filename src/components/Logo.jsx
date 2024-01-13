@@ -10,7 +10,7 @@ const Logo = ({ disabled }) => {
 				alt="clean with kb Logo"
 			/>
 			<div className="flex flex-col md:flex-row">
-				<span className="self-start text-xl font-semibold whitespace-nowrap dark:text-slate-100">
+				<span className="self-start text-xl md:text-2xl font-semibold whitespace-nowrap dark:text-slate-100">
 					Katy Brown ™
 				</span>
 				<span className="self-start md:self-center md:pl-2 text-xs md:text-xl font-semibold dark:text-slate-100">
